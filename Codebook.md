@@ -42,7 +42,7 @@ The resulting tidy dataset is a data frame consisting of 180 observations of 81 
 	activity-	LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
 **NUM**
-Each of the following variables is the mean of its respective variable from the original dataset. For example, 	mean_timebodyacceleration_meanx is the mean of timebodyacceleration_meanx.
+Each of the following variables is the mean of its respective mean or standard deviation variable. For example, mean_timebodyacceleration_meanx is the mean of timebodyacceleration_meanx; mean_timebodyacceleration_stdevx is the mean of timebodyacceleration_stdevx, and so on.
 
 
 	mean_timebodyacceleration_meanx
