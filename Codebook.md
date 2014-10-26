@@ -34,7 +34,7 @@ mean of the| meanFreq(): Weighted average of the frequency components to obtain 
 The resulting tidy dataset is a data frame consisting of 180 observations of 81 variables (subject, activity, and 79 measurement| means), grouped and sorted by subject and activity. The table below provides the variable name, type, and value(s) for each variable.
 
 VARIABLE                                             | TYPE   |VALUES
------------------------------------------------------  ------  ------------------------------------------------------------------------
+:----------------------------------------------------  |----:  :------------------------------------------------------------------------
 subject                                              | 	int   | 1 - 30
 activity                                             | 	Factor| LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 mean_timebodyacceleration_meanx                      | 	num   | mean of timebodyacceleration_meanx
