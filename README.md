@@ -61,3 +61,5 @@ To derive the tidy dataset, run_analysis.R performs the processing described bel
       	dataset <- read.table("tidytable.txt", header = TRUE)
       	View(dataset)
 
+##Acknowledgments
+The above code for reading the tidy data file was taken from David's Project FAQ (https://class.coursera.org/getdata-008/forum/thread?thread_id=24).
