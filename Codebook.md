@@ -43,9 +43,9 @@ activity-	LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAI
 Each of the following variables is the mean of its respective variable from the original dataset. For example, mean_timebodyacceleration_meanx is the mean of timebodyacceleration_meanx.
 
 
-mean_timebodyacceleration_meanx
-mean_timebodyacceleration_meany
-mean_timebodyacceleration_meanz
+	mean_timebodyacceleration_meanx
+	mean_timebodyacceleration_meany
+	mean_timebodyacceleration_meanz
 mean_timebodyacceleration_stdevx
 mean_timebodyacceleration_stdevy
 mean_timebodyacceleration_stdevz
